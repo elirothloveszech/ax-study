@@ -1,0 +1,35 @@
+# 브랜드 무드보드 이미지 생성
+
+## 목적
+브랜드/작품 비주얼 아이덴티티를 위한 무드보드를 만들고 싶습니다.
+4개의 요소가 한 결로 묶이는 일관된 분위기의 레퍼런스 이미지가 필요합니다.
+
+## 브랜드/작품 컨셉
+무드: ARG·파운드푸티지, 가상현실/인터넷이 뒤섞인 분위기
+컬러: 녹색과 회색이 섞인 기록 영상(VHS·CCTV) 톤
+타깃: 사이버펑크를 좋아하는 Y2K 오타쿠
+내용: 사람이 없는 리미널 스페이스, 디스토피아 무드의 빈공간에서 일어나는 공포
+수정하고 싶은 부분(장면 구성, 화각, 자막·타임스탬프 유무 등)이 있으면 지금 추가해 두
+
+## 공통 스타일 (4컷 모두 동일하게 적용)
+- 무드: {예: cold and creepy, Low quality 2012 smartphone photo, visible noise, slight motion blur, soft focus, uneven exposure, slightly overexposed highlights candid. unplanned. documentary snapshot, looks like an accidental photo
+}
+- 컬러: {예: Sickly green and cold industrial gray color palette, desaturated muted tones, murky greenish-gray shadows, washed-out colors, eerie fluorescent lighting, low contrast, analog video noise, gritty found footage aesthetic, unsettling atmosphere.}
+- 조명·구도: {Harsh overhead fluorescent lighting, sickly greenish-gray illumination, dim ambient light, uneven exposure, underexposed shadows, awkward off-center framing, slightly tilted wide-angle perspective, excessive negative space, distant observational camera angle, unsettling asymmetrical composition.
+Style}
+- 스타일: {Early 2000s found footage aesthetic, analog horror, gritty cyberpunk realism, desaturated green-gray color palette, washed-out muted tones, low-resolution digital camcorder footage, visible sensor noise, heavy compression artifacts, soft focus, subtle motion blur, uncanny realism, eerie liminal space atmosphere, raw unedited documentary footage, no cinematic polish.}
+
+## 레이아웃
+2×2 그리드, 4개의 정사각형 이미지가 하나의 캔버스 안에 균등하게 배치
+각 사진 사이에 얇은 흰 여백
+
+## 4컷 구성
+- 좌측 상단: {horror game protagonist outfit 입은 20대 소반의 소녀 이미지}
+- 우측 상단: {빈 공간 이미지 수영장같은데 빈 공간이 엄청나게 길고 높은 층고로 펼쳐짐 미끄럼틀이 있는 수영장인데 미끄럼틀이 엄청 길고 꼬여서 불안정한 분위기를 주고 비현실적으로 넓고 큼 빛바램}
+- 좌측 하단: {기괴한 크리처 이미지
+- 우측 하단: {이와 비슷한 톤의 빈 공간 이미지 하나 더 설정하기. 이번엔 야외로}
+
+## 주의사항
+- 4컷 모두 위 [공통 스타일]을 동일하게 적용
+- 글자·로고는 넣지 않기
+- 4컷의 톤과 분위기가 한 브랜드처럼 일관되게
